@@ -1,6 +1,3 @@
-# quicksight-netflix-visualization
-Amazon QuickSight Project for Visualizing Netflix Data
-
 # Amazon QuickSight Project: Netflix Dataset Visualization
 
 ## Project Overview
