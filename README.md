@@ -3,11 +3,7 @@
 ## Project Overview
 This project showcases data visualization using **Amazon QuickSight** to analyze a large Netflix dataset of shows and movies. The goal was to create interactive dashboards that reveal insights into Netflix's content library.
 
-## Live Project
-🚀 **Check out the live visualization here:**   
-[Netflix Visualization Dashboard (Amazon QuickSight)](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/529080612383/dashboards/f4d074ee-6dd6-4a7c-af72-a48ab1a5a65a?directory_alias=Johannesquicksight)
-
-Explore the interactive dashboard created using Amazon QuickSight. Visualize the breakdown of Netflix content by release year, type, and genre.
+🚀 Explore the interactive dashboard created using Amazon QuickSight. Visualize the breakdown of Netflix content by release year, type, and genre.
 
 📄 **Download the Dashboard PDF**:  
 [Netflix Dashboard PDF](Sheet_1_2024-12-23T23_48_49.pdf)
